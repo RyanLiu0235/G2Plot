@@ -30,3 +30,4 @@ export { default as Bubble, BubbleConfig } from './bubble';
 
 // export { default as Gauge, GaugeConfig } from './gauge';
 // export { default as Funnel, FunnelConfig } from './funnel';
+export { default as Calendar, CalendarConfig } from './calendar';
