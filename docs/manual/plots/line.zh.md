@@ -52,31 +52,31 @@ const data = [
 
 ### title
 
-**optional** 见[通用图表配置](../general-config#title)。
+**optional** 见[通用图表配置](../general-config.zh.md#title)。
 
 ### description
 
-**optional** 见[通用图表配置](../general-config#description)。
+**optional** 见[通用图表配置](../general-config.zh.md#description)。
 
 ### width
 
-**optional** 见[通用图表配置](../general-config#width)。
+**optional** 见[通用图表配置](../general-config.zh.md#width)。
 
 ### height
 
-**optional** 见[通用图表配置](../general-config#height)。
+**optional** 见[通用图表配置](../general-config.zh.md#height)。
 
 ### forceFit
 
-**optional** 见[通用图表配置](../general-config#forceFit)。
+**optional** 见[通用图表配置](../general-config.zh.md#forceFit)。
 
 ### padding
 
-**optional** 见[通用图表配置](../general-config#padding)。
+**optional** 见[通用图表配置](../general-config.zh.md#padding)。
 
 ### theme
 
-**optional** 见[通用图表配置](../general-config#theme)。
+**optional** 见[通用图表配置](../general-config.zh.md#theme)。
 
 ### data
 
@@ -150,19 +150,19 @@ const data = [
 
 ### xAxis
 
-**optional** 见[通用图表配置](../general-config#axis)。
+**optional** 见[通用图表配置](../general-config.zh.md#axis)。
 
 ### yAxis
 
-**optional** 见[通用图表配置](../general-config#linearaxis)。
+**optional** 见[通用图表配置](../general-config.zh.md#linearaxis)。
 
 ### tooltip
 
-**optional** 见[通用图表配置](../general-config#tooltip)。
+**optional** 见[通用图表配置](../general-config.zh.md#tooltip)。
 
 ### legend
 
-**optional** 见[通用图表配置](../general-config#legend)。
+**optional** 见[通用图表配置](../general-config.zh.md#legend)。
 
 ### label
 
@@ -199,4 +199,4 @@ const data = [
 `onPointMousemove: function`  数据点鼠标移动事件<br />
 `onPointContextmenu: function`    数据点右键事件<br />
 
-- 其他事件类型见[通用图表配置](../general-config#events)。
+- 其他事件类型见[通用图表配置](../general-config.zh.md#events)。
