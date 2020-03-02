@@ -50,31 +50,31 @@ const data = [
 
 ### title
 
-**optional** check [general configeration](../general-config#title)
+**optional** check [general configeration](../general-config.en.md#title)
 
 ### description
 
-**optional** check [general configeration](../general-config#description)
+**optional** check [general configeration](../general-config.en.md#description)
 
 ### width
 
-**optional** check [general configeration](../general-config#width)
+**optional** check [general configeration](../general-config.en.md#width)
 
 ### height
 
-**optional** check [general configeration](../general-config#height)
+**optional** check [general configeration](../general-config.en.md#height)
 
 ### forceFit
 
-**optional** check [general configeration](../general-config#forceFit)
+**optional** check [general configeration](../general-config.en.md#forceFit)
 
 ### padding
 
-**optional** check [general configeration](../general-config#padding)
+**optional** check [general configeration](../general-config.en.md#padding)
 
 ### theme
 
-**optional** check [general configeration](../general-config#theme)
+**optional** check [general configeration](../general-config.en.md#theme)
 
 ### data
 
@@ -150,11 +150,11 @@ The data points on the line to assist reading with the same grouping and color-m
 
 ### tooltip
 
-**optional** check[general configeration](../general-config#tooltip)
+**optional** check[general configeration](../general-config.en.md#tooltip)
 
 ### legend
 
-**optional** check[general configeration](../general-config#legend)
+**optional** check[general configeration](../general-config.en.md#legend)
 
 ### label
 
@@ -191,4 +191,4 @@ if the data points on line shape was been configrated:
 `onPointMousemove: function`  the mousemove event of data point shape<br />
 `onPointContextmenu: function`  the contextmenu event of data point shape<br />
 
-- for other events, please check [general configeration](../general-config#events).
+- for other events, please check [general configeration](../general-config.en.md#events).
